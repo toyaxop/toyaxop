@@ -18,3 +18,6 @@
 
 <h2>Github Stats</h2>
 <img align="left" alt="ToyaXo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=toyaxop&show_icons=true&theme=radical" />
+
+<h2>Donate</h2>
+<a href='https://ko-fi.com/Y8Y8PPRZU' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
