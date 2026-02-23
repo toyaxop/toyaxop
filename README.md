@@ -10,4 +10,6 @@
 <a href = "mailto:contact@toyaxo.ch"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-<p align="center"><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=toya-xo&theme=dark" alt="toya-xo" /></p>
+<p align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Toya-Xo&theme=transparent" alt="GitHub Streak" /></a>
+</p>
