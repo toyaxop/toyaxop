@@ -22,6 +22,6 @@
         <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&amp;logo=adobe%20photoshop&amp;logoColor=white" alt="Adobe Photoshop">
     </p>
     <p align="center">
-        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Toya-Xo&theme=transparent" alt="GitHub Streak" /></a>
+        <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=toya-xo&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
     </p>
 </div>
