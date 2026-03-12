@@ -1,6 +1,6 @@
 <h1 align="center">Hi!</br>I'm Lucia (a.k.a. ToyaXo)</h1>
 <p align="center">
-&bull; Currently learning <b>Docker, MySQL and React</b></br>
+&bull; Currently learning <b>C, Docker, MySQL and React</b></br>
 &bull; Contact me <b>contact@toyaxo.ch</b></br></br>
 <a href="https://toyaxo.ch/" target="_blank">Personnal website</a>
 </p>
