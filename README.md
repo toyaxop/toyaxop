@@ -1,6 +1,6 @@
 <h1 align="center">Hi!</br>I'm Lucia (a.k.a. ToyaXo)</h1>
 <p align="center">
-&bull; Currently learning <b>C, Docker, MySQL and React</b></br>
+&bull; Currently learning <b>C, C++, Docker, MySQL and React</b></br>
 &bull; Contact me <b>contact@toyaxo.ch</b></br></br>
 <a href="https://toyaxo.ch/" target="_blank">Personnal website</a>
 </p>
@@ -12,6 +12,8 @@
     <a href="mailto:contact@toyaxo.ch"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&amp;logoColor=white" alt="email"></a> </p>
     <h1>Languages/Tools:</h1>
     <p>
+        <img src="https://img.shields.io/badge/C-5a5a5a?style=for-the-badge&logo=c" alt="Badge">
+        <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus" alt="Badge">
         <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&amp;logo=css3&amp;logoColor=white" alt="CSS3">
         <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5">
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java">
